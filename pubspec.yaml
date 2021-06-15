@@ -1,6 +1,7 @@
 name: headset_connection_event
 description: Flutter Plugin for headset events. Detect headset is plugged and unplugged. Get current headset state.
 version: 2.0.0
+homepage: https://github.com/GitStartHQ/popsical_heaset_event
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
